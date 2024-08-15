@@ -1,2 +1,2 @@
-# sonic_autodrive.github.io
+# sonic-autodrive.github.io
 Sonic AutoDrive
